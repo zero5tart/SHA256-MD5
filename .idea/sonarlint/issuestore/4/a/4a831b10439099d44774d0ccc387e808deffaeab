@@ -1,0 +1,68 @@
+
+csquid:S2583ë"DChange this condition so that it does not always evaluate to "false"(×¾Î8ı®Œ¬È-
+€squid:S1192A"]Define a constant instead of duplicating this literal "      \"priority\": \"1\",\n" 5 times.(èë˜×ùÿÿÿÿ8Á¬¨Ç-
+]squid:S1854":Remove this useless assignment to local variable "method".(Ç·×éùÿÿÿÿ8‡¥·ÒÈ-
+Tsquid:S4432Œ"0Use Galois/Counter Mode (GCM/NoPadding) instead.(Ü øùÿÿÿÿ8‚İ°©Ç-
+esquid:S1192ô"FDefine a constant instead of duplicating this literal "utf-8" 4 times.(ÌÆÒ‡8‚İ°©Ç-
+„squid:S1488‘"fImmediately return this expression instead of assigning it to the temporary variable "originalString".(®«™
+8‚İ°©Ç-
+nsquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(æ£ˆºşÿÿÿÿ8¡å·ÒÈ-
+Œsquid:S1192a"nDefine a constant instead of duplicating this literal "      \"realName\": \"ä¸°æ³½åŒºæ²³é•¿åŠ\",\n" 4 times.(ğİ•Ñ8Á¬¨Ç-
+ƒsquid:S1192b"eDefine a constant instead of duplicating this literal "      \"gridName\": \"ä¸°æ³½åŒº\",\n" 4 times.(¹ü§µ8Á¬¨Ç-
+osquid:CommentedOutCodeLine­"<This block of commented-out lines of code should be removed.(¤çøİûÿÿÿÿ8Ü¤ªÈ-
+osquid:CommentedOutCodeLineê"<This block of commented-out lines of code should be removed.(Çû˜—ûÿÿÿÿ8ı®Œ¬È-
+osquid:CommentedOutCodeLineÊ"<This block of commented-out lines of code should be removed.(õ®Íúûÿÿÿÿ8é˜•¨Ç-
+squid:S1192E"^Define a constant instead of duplicating this literal "      \"updateTime\": null,\n" 5 times.(áƒ–­ûÿÿÿÿ8Á¬¨Ç-
+ksquid:S1192="HDefine a constant instead of duplicating this literal "    {\n" 5 times.(Ÿñ¼Ñÿÿÿÿÿ8Á¬¨Ç-
+vsquid:S1192J"XDefine a constant instead of duplicating this literal "      \"flag\": null,\n" 5 times.(Ï¦…«8Á¬¨Ç-
+W
+squid:S106‡"9Replace this use of System.out or System.err by a logger.(îÔÛ×8‚İ°©Ç-
+Esquid:S14819"'Remove this unused "s1" local variable.(Ãøš¥8“·€©Ç-
+Tsquid:S18549"6Remove this useless assignment to local variable "s1".(Ãøš¥8“·€©Ç-
+squid:S1192B"\Define a constant instead of duplicating this literal "      \"createBy\": null,\n" 5 times.(é¾›Õşÿÿÿÿ8Á¬¨Ç-
+ysquid:S1192L"\Define a constant instead of duplicating this literal "      \"fileList\": null,\n" 5 times.(œ·€.8Á¬¨Ç-
+Nsquid:S1481"+Remove this unused "method" local variable.(Ç·×éùÿÿÿÿ8‡¥·ÒÈ-
+Wsquid:S1854"9Remove this useless assignment to local variable "appid".(…Ñù8‡¥·ÒÈ-
+\
+squid:S106‚"9Replace this use of System.out or System.err by a logger.(ñ˜úÚüÿÿÿÿ8‚İ°©Ç-
+nsquid:S00100è"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñíé8‚İ°©Ç-
+W
+squid:S106”"9Replace this use of System.out or System.err by a logger.(ìÍ¦‡8‚İ°©Ç-
+^squid:UnusedPrivateMethodº",Remove this unused private "getSign" method.(â·§¦şÿÿÿÿ8áÉÎÈ-
+;squid:S1643Ã"Use a StringBuilder instead.(¬ÙÑ8¾ı¢È-
+osquid:CommentedOutCodeLineà"<This block of commented-out lines of code should be removed.(û§ÿÆûÿÿÿÿ8é˜•¨Ç-
+osquid:CommentedOutCodeLine±"<This block of commented-out lines of code should be removed.(´Ô£Ûşÿÿÿÿ8Ü¤ªÈ-
+gsquid:UselessImportCheck	"7Remove this unused import 'java.security.SecureRandom'.(›éè™úÿÿÿÿ8â£Í©Ç-
+Ysquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8‚İ°©Ç-
+©%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8Ğ§ŸÒÈ-
+nsquid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(ö¯—Ëúÿÿÿÿ8£Æ”¨Ç-
+jsquid:CommentedOutCodeLine¹"<This block of commented-out lines of code should be removed.(«õÌ8í·ÒÈ-
+Hsquid:S1481"*Remove this unused "appid" local variable.(…Ñù8‡¥·ÒÈ-
+jsquid:CommentedOutCodeLineÙ"<This block of commented-out lines of code should be removed.(«Ğ×¾8é˜•¨Ç-
+zsquid:S1192D"\Define a constant instead of duplicating this literal "      \"updateBy\": null,\n" 5 times.(ÜïÖÏ8Á¬¨Ç-
+gsquid:S1192P"IDefine a constant instead of duplicating this literal "    },\n" 4 times.(¥ÁÊÁ8Á¬¨Ç-
+ssquid:S00100ş"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çìèÿşÿÿÿÿ8‚İ°©Ç-
+Osquid:S4432ö"0Use Galois/Counter Mode (GCM/NoPadding) instead.(ÏñÆ×8‚İ°©Ç-
+\
+squid:S106˜"9Replace this use of System.out or System.err by a logger.(Ä°õ¯üÿÿÿÿ8‚İ°©Ç-
+\
+squid:S106ñ"9Replace this use of System.out or System.err by a logger.(¯ËÅùÿÿÿÿ8‚İ°©Ç-
+{squid:S1192@"XDefine a constant instead of duplicating this literal "      \"body\": null,\n" 5 times.(Ä®£«ùÿÿÿÿ8Á¬¨Ç-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(éí÷„ùÿÿÿÿ8»Ë¥ÒÈ-
+fsquid:S00112è"FDefine and throw a dedicated exception instead of using a generic one.(ñíé8‚İ°©Ç-
+ksquid:S00112ş"FDefine and throw a dedicated exception instead of using a generic one.(çìèÿşÿÿÿÿ8‚İ°©Ç-
+nsquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(”´ôÆüÿÿÿÿ8£Æ”¨Ç-
+squid:S1192I"^Define a constant instead of duplicating this literal "      \"wechatFlag\": null,\n" 5 times.(ªö³¥ÿÿÿÿÿ8Á¬¨Ç-
+osquid:CommentedOutCodeLineª"<This block of commented-out lines of code should be removed.(—íû®ûÿÿÿÿ8Ü¤ªÈ-
+isquid:CommentedOutCodeLineÇ"<This block of commented-out lines of code should be removed.(…ÃëC8Óş¨È-
+fsquid:UselessImportCheck"6Remove this unused import 'javax.crypto.KeyGenerator'.(ÑÃ’§ÿÿÿÿÿ8â£Í©Ç-
+Isquid:S1481:"&Remove this unused "s" local variable.(°Ãúûøÿÿÿÿ8Ü¤ªÈ-
+}squid:S1192K"ZDefine a constant instead of duplicating this literal "      \"userId\": null,\n" 5 times.(Ç‡œÆøÿÿÿÿ8Á¬¨Ç-
+ysquid:S1192O"[Define a constant instead of duplicating this literal "      \"fileInfo\": null\n" 5 times.(¤™“8Á¬¨Ç-
+V
+squid:S106#"9Replace this use of System.out or System.err by a logger.(‰Œ›¾8ª…ˆÒÈ-
+jsquid:CommentedOutCodeLine¨"<This block of commented-out lines of code should be removed.(›ÃÓé8Ü¤ªÈ-
+Xsquid:S1854:"5Remove this useless assignment to local variable "s".(°Ãúûøÿÿÿÿ8Ü¤ªÈ-
+\
+squid:S106ì"9Replace this use of System.out or System.err by a logger.(ñ˜úÚüÿÿÿÿ8ğì×ŸÈ-
